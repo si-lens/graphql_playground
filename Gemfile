@@ -28,3 +28,6 @@ group :development do
   # gem "spring"
 end
 
+gem 'graphql'
+
+gem "graphiql-rails", group: :development
